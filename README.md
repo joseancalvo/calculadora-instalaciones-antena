@@ -22,7 +22,7 @@ Una vez instalada la app, necesitais instalar git y python.
   >cd calculadora-instalaciones-antena
   
   Y finalmente ejecutamos la aplicación:
-  >python3 calculadoraantena.py
+  >python3 calculadorantena.py
   
   ![WhatsApp Image 2021-08-13 at 17 15 09](https://user-images.githubusercontent.com/64921162/129383463-dc20287f-0a7c-420c-9eb9-157e0be8b885.jpeg)
 
@@ -43,6 +43,6 @@ Una vez instalada la app, necesitais instalar git y python.
   >cd calculadora-instalaciones-antena
   
   Y finalmente ejecutamos la aplicación:
-  >python3 calculadoraantena.py
+  >python3 calculadorantena.py
   
   ![WhatsApp Image 2021-08-13 at 17 15 40](https://user-images.githubusercontent.com/64921162/129383613-8c1e1c32-4706-4ea7-8fcb-ef27a5622769.jpeg)
